@@ -1,0 +1,24 @@
+.nav {
+    list-style: none;
+    text-align: center;
+}
+.nav li {
+    display: inline;
+    margin-right: 20px;
+}
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 50px;
+    background-color:rgb(251, 201, 208);
+}
+
+#span1 {
+    color: rgb(255, 0, 179);
+    font-size: 100px;
+}
+#span2 {
+    color: rgb(241, 8, 117);
+    font-size: 15px;
+}
